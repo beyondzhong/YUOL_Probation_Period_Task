@@ -9,4 +9,5 @@ YangtezUniversity Online 2016 probation period Students tasks<br/>
 ## 要求
 - 一开始时我还是希望你们先打好基础：HTML5、CSS3、JavaScript,这三门是基础中的基础，至少HTML和CSS学习起来是相对容易的，稍微用点心和花点时间就可以拿下了，JavaScript可能需要一点`面向对象的程序设计`的思想，但入门也是非常简单的。
 - 我希望每位同学都必须得学会最基础的PS技能，也就是学会切图，学会把PS组给的`.psd`格式的设计稿变成网页。
-- 关于工具和软件的选择，出于个人习惯以及自由的思想，我是不会干预你们选择工具的，但还是希望能使用好的工具养成良好的编码习惯，因为<b>别人看不懂的代码都是没有价值的</b>。我个人的推荐是[Visual Studio Code](https://code.visualstudio.com/)、[Sublime](http://www.sublimetext.com/)
+- 关于工具和软件的选择，出于个人习惯以及自由的思想，我是不会干预你们选择工具的，但还是希望能使用好的工具养成良好的编码习惯，因为<b>别人看不懂的代码都是没有价值的</b>。我个人的推荐是[Visual Studio Code](https://code.visualstudio.com/),[Sublime](http://www.sublimetext.com/) 或 [Emmet](http://emmet.io/)。
+- 
