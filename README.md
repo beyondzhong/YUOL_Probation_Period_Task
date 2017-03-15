@@ -21,4 +21,4 @@ YangtezUniversity Online 2016 probation period Students tasks<br/>
 ## 后记 <br/>
 学习的过程是很无聊的，这我知道，但还是希望你们能够坚持下去，好好打好基础，提高竞争力，完成我往后安排的任务。<br/>
 ## 版权 <br/>
-Copyright © 2017 周南杰, All Rights Reserved
+Copyright © 2017 YUOL-周南杰, All Rights Reserved
