@@ -15,7 +15,9 @@ YangtezUniversity Online 2016 probation period Students tasks<br/>
 - 如果你对任务有什么疑问的话也可以在此仓库的Issues上留言，或者在我们试用期的交流群里提问，学长学姐们只要有时间都会给你解答的，但一些简单的能百度解决都去问度娘，这是学习的一种思维。当你实在纠结该不该问学长学姐们时，这时你就一定要去提问了，不要浪费时间。
 ## 参考资料&&教程 <br/>
 - [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)：可能你会觉得很长，但是慢慢来，廖老师的课程都是精品。
+- [版本控制入门-搬进 GitHub 慕课网](http://www.imooc.com/learn/390):觉得文档无聊看不懂的可以先看视频。
 - [W3school 在线教程](http://www.w3school.com.cn/)：这里面涵盖了HTML5+CSS3+JavaScript的教程及文档，对于初学者或没有接触过编程的同学来讲，我是强烈建议在此一边阅读文档一边打代码练习的。能迅速帮你上手，通过实践去理解。
+- [HTML5入门](http://study.163.com/course/introduction.htm?courseId=171001#/courseDetail) & [CSS3](http://study.163.com/course/introduction/190001.htm#/courseDetail) & [JavaScript](http://study.163.com/course/introduction/195001.htm#/courseDetail):觉得文档无聊的，可以先看视频，但还是建议看文档，能一边学习一边实践。
 - [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)：这是学习JavaScript进阶的地方，JavaScript全栈教程。若是用能力强的同学可以直接在这上边学习JavaScript。还是廖老师的精品课程，我也在上边学习。但<b>重点还是先学好HTML5+CSS3</b>
 - <b>以上参考资料和教程请按照顺序学习。</b>
 ## 后记 <br/>
